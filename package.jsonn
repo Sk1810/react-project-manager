@@ -1,0 +1,13 @@
+{
+  "name": "decode-survey-packages",
+  "version": "1.0.7",
+  "description": "Dynamic decode survey packages.",
+  "author": "ajit-kumar-Converz",
+  "license": "MIT",
+  "repository": "https://github.com/EntropikTechnologies/decode-packages.git",
+  "main": "dist/index.js",
+  "module": "dist/index.modern.js",
+  "source": "src/index.tsx",
+  "engines": {
+    "node": ">=10"
+  },
